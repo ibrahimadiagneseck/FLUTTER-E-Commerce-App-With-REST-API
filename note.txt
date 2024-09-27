@@ -1,0 +1,14 @@
+npm install --global yarn
+
+Remove-Item -Path "C:\Users\ibrah\AppData\Roaming\npm\yarn.ps1" -Force
+
+yarn --version
+
+
+yarn create strapi e-commerce
+
+yarn develop
+
+
+
+
