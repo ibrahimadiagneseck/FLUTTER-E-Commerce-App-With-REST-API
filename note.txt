@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=sQS_DAmQh2Y
+
 npm install --global yarn
 
 Remove-Item -Path "C:\Users\ibrah\AppData\Roaming\npm\yarn.ps1" -Force
@@ -24,6 +26,9 @@ dependencies:
 dependencies:
   flutter_snake_navigationbar: ^0.6.1
 
+
+dependencies:
+  badges: ^3.1.2
 
 
 

@@ -1,3 +1,4 @@
+// https://www.youtube.com/watch?v=sQS_DAmQh2Y : Part 04 - Home Carousel Slider #1
 import 'package:flutter/material.dart'; // Importe le package Flutter pour la création d'UI
 import 'package:get/get.dart'; // Importe GetX pour la gestion de l'application, la navigation et les thèmes
 import 'package:app/route/app_page.dart'; // Importe la liste des pages définie dans AppPage
